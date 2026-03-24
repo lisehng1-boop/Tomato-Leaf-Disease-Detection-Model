@@ -1,1 +1,1 @@
-# Tomato-Leaf-Disease-Detection-Model
+Tomato Leaf Disease Detection Model

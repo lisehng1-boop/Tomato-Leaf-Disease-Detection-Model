@@ -1,0 +1,12 @@
+train:
+val:
+test:
+
+nc:
+names: ['', '', '', '']
+
+roboflow:
+  workspace: tomatoleaf-lprro
+  project: tomato-leaf
+  version: 2
+  license: Private
